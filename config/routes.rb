@@ -1,4 +1,4 @@
-Bmanager::Application.routes.draw do 
+Bmanager::Application.routes.draw do
   get "users/new"
   match '/contact', :to => 'pages#contact'
   match '/about', :to => 'pages#about'
@@ -53,7 +53,7 @@ Bmanager::Application.routes.draw do
   #     # (app/controllers/admin/products_controller.rb)
   #     resources :products
   #   end
- 
+
   # See how all your routes lay out with "rake routes"
 
   # This is a legacy wild controller route that's not recommended for RESTful applications.

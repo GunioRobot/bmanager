@@ -11,7 +11,7 @@ header {
 }
 
 header img {
-  padding: 1em; 
+  padding: 1em;
   background: #fff;
 }
 
@@ -27,12 +27,12 @@ section h1 {
 }
 
 /* Links */
-a { 
+a {
   color: #09c;
   text-decoration: none;
 }
 
-a:hover { 
+a:hover {
   color: #069; text-decoration: underline;
 }
 
@@ -42,23 +42,23 @@ a:visited {
 
 /* Navigation */
 
-nav { 
+nav {
   float: right;
 }
 
-nav { 
+nav {
   background-color: white; padding: 0 0.7em; white-space: nowrap;
 }
 
-nav ul { 
+nav ul {
   margin: 0; padding: 0;
 }
 
-nav ul li { 
+nav ul li {
   list-style-type: none; display: inline-block; padding: 0.2em 0;
 }
 
-nav ul li a { 
+nav ul li a {
   padding: 0 5px; font-weight: bold;
 }
 
@@ -66,21 +66,21 @@ nav ul li a:visited {
   color: #09c;
 }
 
-nav ul li a:hover { 
+nav ul li a:hover {
   text-decoration: underline;
 }
 
 /* Sign up button */
-a.signup_button { 
-  margin-left: auto; 
-  margin-right: auto; 
-  display: block; 
-  text-align: center; 
-  width: 190px; 
-  color: #fff; 
-  background: #006400; 
-  font-size: 150%; 
-  font-weight: bold; 
+a.signup_button {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+  width: 190px;
+  color: #fff;
+  background: #006400;
+  font-size: 150%;
+  font-weight: bold;
   padding: 20px;
 }
 
